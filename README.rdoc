@@ -2,7 +2,7 @@
 
 Coder Manual Project Application
 Subscription-based web application
-https://codermanual.com
+https://codermanual.comeroku domains
 
 Things you may want to cover:
 
